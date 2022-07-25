@@ -1,7 +1,7 @@
 {
   "company": {
     "name": "UpBlock",
-    "logo": "/assets/images/upclycle.png"
+    "logo": "/assets/images/upcycle.png"
   },
   "navigation": [
     {
@@ -45,7 +45,7 @@
       {
         "title": "Ethreum Blockchain based Supply Chain",
         "description": "We provide customized Ethereum API solution for user required Supply Chain Implementation",
-        "img": "/assets/images/upcycle1.png"
+        "img": "/assets/images/upcyle1.png"
       },
       {
         "title": "Use of Technology in Upcycle Economy",
@@ -62,22 +62,22 @@
       {
         "name": "Data Science",
         "description": "Data Science makes Management Easier",
-        "icon": "/assets/images/react.png"
+          "icon": "/assets/images/upcycle.png"
       },
       {
         "name": "Transparency",
         "description": "Collection to transport until delivery are transparent.",
-        "icon": "/assets/images/tailwindcss.svg"
+        "icon": "/assets/images/upcycle.png"
       },
       {
         "name": "Smart City Governance",
         "description": "City planners are happy for smart governance",
-        "icon": "/assets/images/nextjs.svg"
+        "icon": "/assets/images/upcycle.png"
       },
       {
         "name": "Documentation",
         "description": "API technical support with documentation.",
-        "icon": "/assets/images/ts.png"
+       "icon": "/assets/images/upcycle.png"
       }
     ]
   },
@@ -123,26 +123,21 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
+        "name": "Product",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "Service",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
-        "name": "Something",
+        "name": "Pricing",
         "href": "#",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      }
-    ],
+         ],
     "socialMedia": {
       "github": "https://github.com/upblock",
       "twitter": "https://twitter.com/upblock",

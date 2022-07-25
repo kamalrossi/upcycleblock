@@ -81,7 +81,7 @@ const About = () => {
           <p className="mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
             &copy; {new Date().getFullYear()} All Rights Reserved{' '}
             <a href="" rel="nofollow">
-           CryptoBlock
+           UpBlock
             </a>
           </p>
         </div>

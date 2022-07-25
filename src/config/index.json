@@ -1,7 +1,7 @@
 {
   "company": {
     "name": "UpBlock",
-    "logo": "/assets/images/logo.png"
+    "logo": "/assets/images/upclycle.png"
   },
   "navigation": [
     {
@@ -50,7 +50,7 @@
       {
         "title": "Use of Technology in Upcycle Economy",
         "description": "Complex issues of Upcycle Economy is implemented in simpler technology solutions",
-        "img": "/assets/images/product2.png"
+        "img": "/assets/images/upcycle2.png"
       }
     ]
   },

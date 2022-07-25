@@ -1,6 +1,6 @@
 {
   "company": {
-    "name": "React landing page 2021",
+    "name": "UpBlock",
     "logo": "/assets/images/logo.png"
   },
   "navigation": [
@@ -9,7 +9,7 @@
       "href": "product"
     },
     {
-      "name": "Features",
+      "name": "Service",
       "href": "features"
     },
 
@@ -18,65 +18,64 @@
       "href": "pricing"
     },
     {
-      "name": "About",
+      "name": "Testimonial",
       "href": "about"
     }
   ],
   "callToAction": {
-    "text": "Get started",
+    "text": "Free Trial",
     "href": "#"
   },
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "Technology for Bio-inspired vision",
+    "subtitle": "Blockchain for Upcycle Economy",
+    "description": "We are first in bringing Ethereum based blockchain technology for upcycle economy ",
     "primaryAction": {
-      "text": "Get started",
+      "text": "Free Trial",
       "href": "#"
     },
     "secondaryAction": {
-      "text": "Email us",
+      "text": "Buy Now",
       "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Blockchain based Upcycle Economy Management",
     "items": [
       {
-        "title": "A plug n play template",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
+        "title": "Ethreum Blockchain based Supply Chain",
+        "description": "We provide customized Ethereum API solution for user required Supply Chain Implementation",
         "img": "/assets/images/product1.jpg"
       },
       {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
+        "title": "Use of Technology in Upcycle Economy",
+        "description": "Complex issues of Upcycle Economy is implemented in simpler technology solutions",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Latest & greatest ",
-    "subtitle": "All the best technologies out there!",
+    "title": "Easy and All in one solution ",
+    "subtitle": "One App brings all solutions of Upcycle Economy",
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
     "items": [
       {
-        "name": "React.js",
+        "name": "Data Science",
         "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
         "icon": "/assets/images/react.png"
       },
       {
-        "name": "Tailwind",
+        "name": "Transparency",
         "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
-        "name": "Next.js",
+        "name": "Smart City Governance",
         "description": "Next.js is a framework for server-rendered React applications using Next.js.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
-        "name": "Typescript",
+        "name": "Documentation",
         "description": "TypeScript is a programming language developed and maintained by Microsoft.",
         "icon": "/assets/images/ts.png"
       }
@@ -86,34 +85,34 @@
     "title": "Pricing",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
+        "name": "Pro",
+        "price": "$100",
         "priceDetails": "for one user",
         "features": [
-          "1 user",
+          "10 user",
           "Basic Support",
           "1 GB of storage",
           "Email support"
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
+        "name": "Advanced",
+        "price": "$200",
         "priceDetails": "per user",
 
         "features": [
-          "5 users",
+          "50 users",
           "Priority Support",
           "10 GB of storage",
           "Phone and Email support"
         ]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
+        "name": "Premium",
+        "price": "$500",
         "priceDetails": "per user",
         "features": [
-          "50 users",
+          "500 users",
           "24/7 Support",
           "100 GB of storage",
           "Phone and Email support"
@@ -145,9 +144,9 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "github": "https://github.com/upblock",
+      "twitter": "https://twitter.com/upblock",
+      "linkedin": "https://www.linkedin.com/in/upblock/"
     }
   }
 }

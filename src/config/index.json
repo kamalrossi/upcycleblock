@@ -45,12 +45,12 @@
       {
         "title": "Ethreum Blockchain based Supply Chain",
         "description": "We provide customized Ethereum API solution for user required Supply Chain Implementation",
-        "img": "/assets/images/product1.jpg"
+        "img": "/assets/images/upcycle1.png"
       },
       {
         "title": "Use of Technology in Upcycle Economy",
         "description": "Complex issues of Upcycle Economy is implemented in simpler technology solutions",
-        "img": "/assets/images/product2.jpg"
+        "img": "/assets/images/product2.png"
       }
     ]
   },
@@ -61,22 +61,22 @@
     "items": [
       {
         "name": "Data Science",
-        "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
+        "description": "Data Science makes Management Easier",
         "icon": "/assets/images/react.png"
       },
       {
         "name": "Transparency",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "description": "Collection to transport until delivery are transparent.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
         "name": "Smart City Governance",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "description": "City planners are happy for smart governance",
         "icon": "/assets/images/nextjs.svg"
       },
       {
         "name": "Documentation",
-        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "description": "API technical support with documentation.",
         "icon": "/assets/images/ts.png"
       }
     ]
